@@ -19,18 +19,34 @@ const characters = [
     {
         name: "Frieren",
         power: "Magic",
-        age: 2000
+        age: 1000
     },
     {
         name: "Legolas",
         power: "Good Aiming",
-        age: 700
+        age: 2931
     },
     {
-        name: "Querebrimbor",
+        name: "Celebrimbor",
         power: "Ring of Power",
-        age: 2500
-    },    
+        age: 2334
+    },
+    {
+        name: "Clark Kent",
+        power: "Super Everything",
+        age: 45
+    },
+    {
+        name: "Bruce Wayne",
+        power: "None",
+        age: 45
+    },
+    {
+        name: "Bane Dorrance",
+        power: "Steroids",
+        age: 25
+    },
+         
 ]
 
 const resolvers = {
